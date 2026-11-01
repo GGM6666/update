@@ -1,6 +1,6 @@
 {
   "version": "0.3.9",
-  "notes": "· 修复：……\n· 更新方式：下载后解压，覆盖到你原来加载插件的目录，再到 chrome://extensions 点刷新",
+ "notes": "· 修复：……\n· 更新方式：下载后解压，覆盖到你原来加载插件的目录，再到 chrome://extensions 点刷新",
   "url": "https://github.com/GGM6666/demo/archive/refs/heads/main.zip",
   "publishedAt": "2026-10-31"
 }
